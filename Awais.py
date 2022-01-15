@@ -8,8 +8,6 @@ try:
 
 	os.system("pip2 install requests")
 
-try:
-
 	import bs4
 
 except ImportError:
